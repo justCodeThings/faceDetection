@@ -1,6 +1,6 @@
 # Python Face Detection in OpenCV
 
-This is a face detection app that will find your stupid face, slap a circle on it, print the coordinates of your cranium to the console, and the spit out a video once you quit so you can cherish your hideous features being pointed out in low resolution.  Please enjoy.
+This is a face detection app that will find your stupid face, slap a circle on it, print the coordinates of your cranium to the console, and then spit out a video once you quit the app so you can cherish your hideous features being pointed out in low resolution.  Please enjoy.
 
 ### Prerequisites
 
